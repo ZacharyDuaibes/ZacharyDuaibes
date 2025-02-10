@@ -27,9 +27,9 @@
 <h2 id="about" style="color: #00FF00;">🚀 About Me</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
   <p>I'm a passionate CS student at Carleton University specializing in AI and Machine Learning. I love building futuristic tech that merges creativity and automation!</p>
-  <p>💻 Currently working on: AI Creative Mentor, Futuristic Minecraft Space City, and Personal AI Assistant</p>
-  <p>🌱 Learning: AI-driven personalized learning models and real-time collaboration tools.</p>
-  <p>🎯 2025 Goals: Enhance my AI assistant and integrate it into creative platforms.</p>
+  <p>💻 Currently working on: -----</p>
+  <p>🌱 Learning: -----</p>
+  <p>🎯 2025 Goals: -----</p>
 </div>
 
 <!-- Skills Section -->
@@ -46,14 +46,14 @@
 <h2 id="projects" style="color: #00FF00;">🔥 Current Projects</h2>
 <div style="display: grid; justify-content: center; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <h3>AI Creative Mentor</h3>
+    <!--<h3>AI Creative Mentor</h3>
     <p>An AI assistant that helps writers and musicians generate ideas, improve tone, and structure creative works.</p>
     <a href="#" style="color: #00FFFF;">Coming Soon →</a>
   </div>
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
     <h3>Futuristic Minecraft Space City</h3>
     <p>An ever-expanding survival city inspired by Elon Musk and Star Wars, blending aesthetics and functionality.</p>
-    <a href="#" style="color: #00FFFF;">Private Project →</a>
+    <a href="#" style="color: #00FFFF;">Private Project →</a> -->
   </div>
 </div>
 
@@ -78,5 +78,5 @@
 <hr style="border: 0.5px solid #30363d; margin: 30px 0;">
 
 <div align="center">
-  <p>⚡ Fun fact: I build AI and digital creative tools!</p>
+  <!--<p>⚡ Fun fact: I build AI and digital creative tools!</p>-->
 </div>
