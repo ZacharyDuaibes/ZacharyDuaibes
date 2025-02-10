@@ -1,8 +1,8 @@
 # Hello, I'm Zachary Duaibes 🚀
 
-[![Linkedin Badge](https://img.shields.io/badge/-zacharyduaibes-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zacharyduaibes/)](https://www.linkedin.com/in/zacharyduaibes/)
-[![Instagram Badge](https://img.shields.io/badge/-zacharyduaibes-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zacharyduaibes/)](https://instagram.com/zacharyduaibes)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/your_spotify_id)
+[![Linkedin Badge](https://img.shields.io/badge/-zacharyduaibes-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zacharyduaibes/)](www.linkedin.com/in/zachary-duaibes)
+[![Instagram Badge](https://img.shields.io/badge/-zacharyduaibes-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zacharyduaibes/)](http://instagram.com/zach_duaibes/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/tokmr537hdu8okg6281gzs1st?si=97440e81c23341e7)
 
 ### 🤖 About Me 
 - Computer Science student at Carleton University, specializing in AI and Machine Learning
