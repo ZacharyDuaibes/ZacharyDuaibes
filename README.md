@@ -1,5 +1,3 @@
-# Hello, I'm Zachary Duaibes 🚀
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=26&pause=1000&color=196AFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Zachary+Duaibes;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
