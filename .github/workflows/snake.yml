@@ -17,8 +17,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'blue'
-          years: 1  # Ensures only past 12 months are used
+          snake_color: "#196AFF"
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0  # Updated version
@@ -27,3 +26,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
