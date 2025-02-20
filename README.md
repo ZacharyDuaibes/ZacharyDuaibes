@@ -8,7 +8,7 @@
   <a href="#about" style="margin: 0 15px; color: #00FFFF;">About</a> •
   <a href="#skills" style="margin: 0 15px; color: #00FFFF;">Skills</a> •
   <a href="#projects" style="margin: 0 15px; color: #00FFFF;">Projects</a> •
-  <a href="#socials" style="margin: 0 15px; color: #00FFFF;">Socials</a>
+  <a href="#contact" style="margin: 0 15px; color: #00FFFF;">Contact</a>
 </div>
 
 <!-- About Section -->
@@ -19,7 +19,23 @@
   <p>💻 Currently working on: -----</p>
   <p>🌱 Learning: -----</p>
   <p>🎯 2025 Goals: -----</p>
-  
+
+  <!-- Social Links -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="LinkedIn" />
+    </a>
+    <a href="mailto:duaibeszachary@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="Gmail" />
+    </a>
+    <a href="http://instagram.com/zach_duaibes/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="Instagram" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/duaibeszachary" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="HackerRank" />
+    </a>
+  </div>
+
   <!-- Spotify Recently Played -->
   <div align="center">
     <a href="https://open.spotify.com/user/tokmr537hdu8okg6281gzs1st">
@@ -37,13 +53,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
@@ -61,23 +87,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZacharyDuaibes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacharyDuaibes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="Most Used Languages" />
-</div>
-
-<!-- Socials Section -->
-<h2 id="socials" style="color: #00FF00;">🌍 Socials</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:duaibeszachary@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="Gmail" />
-  </a>
-  <a href="http://instagram.com/zach_duaibes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/duaibeszachary" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="HackerRank" />
-  </a>
 </div>
 
 <!-- Snake Animation -->
