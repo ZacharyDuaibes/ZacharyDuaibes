@@ -96,6 +96,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/github-snake.svg?timestamp=20240222" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/snake.svg" alt="Snake Animation" />
 </div>
+
 
