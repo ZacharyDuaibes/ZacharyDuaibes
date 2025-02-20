@@ -13,19 +13,20 @@
 
 <!-- Social Icons -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"/>
+  <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="LinkedIn logo"/>
   </a>
-  <a href="mailto:duaibeszachary@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail logo"/>
+  <a href="mailto:duaibeszachary@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="Gmail logo"/>
   </a>
-  <a href="http://instagram.com/zach_duaibes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"/>
+  <a href="http://instagram.com/zach_duaibes/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="Instagram logo"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/duaibeszachary" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"/>
+  <a href="https://www.hackerrank.com/profile/duaibeszachary" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="HackerRank logo"/>
   </a>
 </div>
+
 
 <!-- About Section -->
 <h2 id="about" style="color: #00FF00;">🚀 About Me</h2>
