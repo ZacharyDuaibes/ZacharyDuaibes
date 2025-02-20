@@ -90,9 +90,10 @@
 <!-- GitHub Stats -->
 <h2 style="color: #00FF00;">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZacharyDuaibes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacharyDuaibes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZacharyDuaibes&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacharyDuaibes&layout=compact&langs_count=10&theme=gotham&cache_seconds=1800" height="150" alt="Most Used Languages" />
 </div>
+
 
 <!-- Snake Animation -->
 <div align="center">
