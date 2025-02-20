@@ -16,9 +16,10 @@
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
   <p>Hello World!!</p>
   <p>I'm a passionate CS student at Carleton University specializing in AI and Machine Learning. I love building futuristic tech that merges creativity and automation!</p>
-  <p>💻 Currently working on: -----</p>
-  <p>🌱 Learning: -----</p>
-  <p>🎯 2025 Goals: -----</p>
+  <p>💻 Currently working on: AI-Powered Terminal Assistant, Anatomics, and coursework!</p>
+  <p>🌱 Learning: Trying to enhance my proficiency in front-end APIs and frameworks.</p>
+  <p>🎯 2025 Goals: My main goals for this year are to enhance my programming skills in front-end technologies and databases by building a personal web portfolio.</p>
+
 
   <!-- Social Links -->
   <div align="center">
@@ -79,6 +80,12 @@
 <!-- Projects Section -->
 <h2 id="projects" style="color: #00FF00;">🔥 Current Projects</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+  <p>🖥️ <b>AI-Powered Terminal Assistant</b></p>
+  <p>Ever wished your terminal was smarter? This project is built to enhance the command-line experience by logging executed commands, storing metadata, and providing AI-generated descriptions using OpenAI's API. It features intelligent autocomplete with fuzzy search, ranking command suggestions based on frequency and relevance. With an integrated SQLite database, it efficiently organizes command history for quick access. The interactive CLI also offers real-time suggestions and an intuitive search system.</p>
+
+  <p>🏋️‍♂️ <b>Anatomics</b></p>
+  <p>Most fitness apps focus on logging workouts but lack true guidance. Anatomics changes that by offering a fully interactive fitness assistant. Users can create personalized workout plans and visualize targeted muscle groups using an advanced 3D human model. Built with React and Three.js, Anatomics provides a interactive dynamic UI. The meal creator feature integrates a database of hundreds of nutrition facts, helping users structure meal plans for optimal results. WIP/planned features: animated 3D workout models, a workout calendar, and a comprehensive food lookup table.</p>
+
   <div align="center">
     <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ZacharyDuaibes&theme=dracula" alt="Latest Medium Posts" />
   </div>
