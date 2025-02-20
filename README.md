@@ -36,6 +36,8 @@
     </a>
   </div>
 
+  <br> <!-- Space between socials and Spotify -->
+  
   <!-- Spotify Recently Played -->
   <div align="center">
     <a href="https://open.spotify.com/user/tokmr537hdu8okg6281gzs1st">
@@ -90,5 +92,6 @@
 </div>
 
 <!-- Snake Animation -->
-<br clear="both">
-<img src="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/snake.svg" alt="Snake Animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/snake.svg" alt="Snake Animation" />
+</div>
