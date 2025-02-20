@@ -85,10 +85,6 @@
 
   <p>🏋️‍♂️ <b>Anatomics</b></p>
   <p>Most fitness apps focus on logging workouts but lack true guidance. Anatomics changes that by offering a fully interactive fitness assistant. Users can create personalized workout plans and visualize targeted muscle groups using an advanced 3D human model. Built with React and Three.js, Anatomics provides a interactive dynamic UI. The meal creator feature integrates a database of hundreds of nutrition facts, helping users structure meal plans for optimal results. WIP/planned features: animated 3D workout models, a workout calendar, and a comprehensive food lookup table.</p>
-
-  <div align="center">
-    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ZacharyDuaibes&theme=dracula" alt="Latest Medium Posts" />
-  </div>
 </div>
 
 <!-- GitHub Stats -->
