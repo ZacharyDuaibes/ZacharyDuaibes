@@ -14,7 +14,6 @@
 <!-- About Section -->
 <h2 id="about" style="color: #00FF00;">🚀 About Me</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-  <p>Hello World!!</p>
   <p>I'm a passionate CS student at Carleton University specializing in AI and Machine Learning. I love building futuristic tech that merges creativity and automation!</p>
   <p>💻 Currently working on: AI-Powered Terminal Assistant, Anatomics, and coursework!</p>
   <p>🌱 Learning: Trying to enhance my proficiency in front-end APIs and frameworks.</p>
