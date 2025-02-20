@@ -10,22 +10,17 @@
   <a href="#contact" style="margin: 0 15px; color: #00FFFF;">Contact</a>
 </div>
 
-<!-- Social Badges -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/zachary-duaibes">
-    <img src="https://img.shields.io/badge/-zacharyduaibes-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="http://instagram.com/zach_duaibes/">
-    <img src="https://img.shields.io/badge/-zacharyduaibes-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://open.spotify.com/user/tokmr537hdu8okg6281gzs1st?si=97440e81c23341e7">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify">
-  </a>
+<!-- Social Icons -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 <!-- About Section -->
 <h2 id="about" style="color: #00FF00;">🚀 About Me</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+  <p align="left">Hello World!!</p>
   <p>I'm a passionate CS student at Carleton University specializing in AI and Machine Learning. I love building futuristic tech that merges creativity and automation!</p>
   <p>💻 Currently working on: -----</p>
   <p>🌱 Learning: -----</p>
@@ -34,49 +29,63 @@
 
 <!-- Skills Section -->
 <h2 id="skills" style="color: #00FF00;">🛠️ Tech Stack</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/OpenAI_API-000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 <!-- Projects Section -->
 <h2 id="projects" style="color: #00FF00;">🔥 Current Projects</h2>
-<div style="display: grid; justify-content: center; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <!--<h3>AI Creative Mentor</h3>
-    <p>An AI assistant that helps writers and musicians generate ideas, improve tone, and structure creative works.</p>
-    <a href="#" style="color: #00FFFF;">Coming Soon →</a>
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+  <div align="center">
+    <a href="https://open.spotify.com/user/tokmr537hdu8okg6281gzs1st">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=tokmr537hdu8okg6281gzs1st&count=3&unique=false" alt="Spotify recently played"  />
+    </a>
   </div>
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <h3>Futuristic Minecraft Space City</h3>
-    <p>An ever-expanding survival city inspired by Elon Musk and Star Wars, blending aesthetics and functionality.</p>
-    <a href="#" style="color: #00FFFF;">Private Project →</a> -->
+
+  <div align="center">
+    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ZacharyDuaibes&theme=dracula" alt="Layout with last medium posts"  />
   </div>
 </div>
 
 <!-- GitHub Stats -->
 <h2 style="color: #00FF00;">📈 GitHub Stats</h2>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zacharyduaibes&show_icons=true&theme=dark" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharyduaibes&theme=dark" alt="Streak Stats" width="47.6%">
-</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyduaibes&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZacharyDuaibes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacharyDuaibes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <!-- Contact Section -->
 <h2 id="contact" style="color: #00FF00;">📫 Let's Connect</h2>
-<div align="center" style="margin: 20px 0;">
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;" align="center">
   <a href="mailto:zacharyduaibes@example.com" style="text-decoration: none;">
     <button style="background-color: #00FF00; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Send Email</button>
   </a>
 </div>
 
-<hr style="border: 0.5px solid #30363d; margin: 30px 0;">
-
-<div align="center">
-  <!--<p>⚡ Fun fact: I build AI and digital creative tools!</p>-->
-</div>
+<!-- Snake Animation -->
+<br clear="both">
+<img src="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/snake.svg" alt="Snake animation" />
