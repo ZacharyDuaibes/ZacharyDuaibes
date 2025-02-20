@@ -8,8 +8,7 @@
   <a href="#about" style="margin: 0 15px; color: #00FFFF;">About</a> •
   <a href="#skills" style="margin: 0 15px; color: #00FFFF;">Skills</a> •
   <a href="#projects" style="margin: 0 15px; color: #00FFFF;">Projects</a> •
-  <a href="#now-playing" style="margin: 0 15px; color: #00FFFF;">Now Playing</a> •
-  <a href="#contact" style="margin: 0 15px; color: #00FFFF;">Contact</a>
+  <a href="#socials" style="margin: 0 15px; color: #00FFFF;">Socials</a>
 </div>
 
 <!-- About Section -->
@@ -20,6 +19,13 @@
   <p>💻 Currently working on: -----</p>
   <p>🌱 Learning: -----</p>
   <p>🎯 2025 Goals: -----</p>
+  
+  <!-- Spotify Recently Played -->
+  <div align="center">
+    <a href="https://open.spotify.com/user/tokmr537hdu8okg6281gzs1st">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=tokmr537hdu8okg6281gzs1st&count=3&unique=false" alt="Spotify recently played" />
+    </a>
+  </div>
 </div>
 
 <!-- Skills Section -->
@@ -50,14 +56,6 @@
   </div>
 </div>
 
-<!-- Now Playing (Spotify) -->
-<h2 id="now-playing" style="color: #00FF00;">🎵 Now Playing</h2>
-<div align="center">
-  <a href="https://open.spotify.com/user/tokmr537hdu8okg6281gzs1st">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tokmr537hdu8okg6281gzs1st&count=3&unique=false" alt="Spotify recently played" />
-  </a>
-</div>
-
 <!-- GitHub Stats -->
 <h2 style="color: #00FF00;">📈 GitHub Stats</h2>
 <div align="center">
@@ -65,19 +63,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacharyDuaibes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="Most Used Languages" />
 </div>
 
-<!-- Contact Section -->
-<h2 id="contact" style="color: #00FF00;">📫 Let's Connect</h2>
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;" align="center">
-  <a href="mailto:duaibeszachary@gmail.com" style="text-decoration: none;">
-    <button style="background-color: #00FF00; color: black; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Send Email</button>
-  </a>
-</div>
-
-<!-- Social Links -->
-<h2 style="color: #00FF00;">🌍 Socials</h2>
+<!-- Socials Section -->
+<h2 id="socials" style="color: #00FF00;">🌍 Socials</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:duaibeszachary@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="Gmail" />
   </a>
   <a href="http://instagram.com/zach_duaibes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="Instagram" />
