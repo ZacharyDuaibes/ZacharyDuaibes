@@ -10,17 +10,18 @@ jobs:
     name: Jobs to update data
     runs-on: ubuntu-latest
     steps:
-      # Generate Snake Animation
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      # Snake Animation
+      - name: Generate snake.svg
+        uses: Sutil/snk@master  # Keeping your version
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#ff5733  
-            dist/github-snake.gif?color_snake=#ff5733 
+          svg_out_path: dist/github-contribution-grid-snake2.svg
+          snake_color: 'blue'
+          years: 1  # Ensures only past 12 months are used
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0  # Updated version
         with:
           target_branch: output
           build_dir: dist
