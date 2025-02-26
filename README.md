@@ -1,10 +1,12 @@
 ![GitHub Banner](Banner.gif)
 <!-- About Section -->
-<h2 id="about" style="color: #00FF00;">About Me💈</h2>
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-  <p>CS student at Carleton University specializing in AI and Machine Learning.</p>
-  <p>I love automating things!</p>
-  <p>2025 goals: Get an internship😞</p>
+<div align="center">
+  <h2 style="color: #00FF00;">About Me💈</h2>
+  <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+    <p>CS student at Carleton University specializing in AI and Machine Learning.</p>
+    <p>I love automating things!</p>
+    <p>2025 goals: Get an internship😞</p>
+
 
 
   <!-- Social Links -->
@@ -34,7 +36,7 @@
 </div>
 
 <!-- Skills Section -->
-<h2 id="skills" style="color: #00FF00;">🛠️ Tech Stack</h2>
+<h2 style="color: #00FF00;">🛠️ Tech Stack</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
@@ -64,7 +66,7 @@
 </div>
 
 <!-- Projects Section -->
-<h2 id="projects" style="color: #00FF00;">🔥 Current Projects</h2>
+<h2 style="color: #00FF00;">🔥 Current Projects</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
   <p>🖥️ <b>AI-Powered Terminal Assistant</b></p>
   <p>Ever wished your terminal was smarter? This project is built to enhance the command-line experience by logging executed commands, storing metadata, and providing AI-generated descriptions using OpenAI's API. It features intelligent autocomplete with fuzzy search, ranking command suggestions based on frequency and relevance. With an integrated SQLite database, it efficiently organizes command history for quick access. The interactive CLI also offers real-time suggestions and an intuitive search system.</p>
@@ -88,6 +90,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/github-snake.svg" />
 </picture>
+</div>
 </div>
 
 
