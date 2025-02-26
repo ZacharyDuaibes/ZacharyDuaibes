@@ -77,8 +77,8 @@
 <!-- GitHub Stats -->
 <h2 style="color: #00FF00;">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZacharyDuaibes&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=1800" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacharyDuaibes&layout=compact&langs_count=10&theme=dark&cache_seconds=1800" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZacharyDuaibes&show_icons=true&include_all_commits=true&count_private=true&theme=panda&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacharyDuaibes&layout=compact&langs_count=10&theme=panda&cache_seconds=1800" height="150" alt="Most Used Languages" />
 </div>
 
 
