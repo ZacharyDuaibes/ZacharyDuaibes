@@ -1,16 +1,4 @@
-<!-- Profile Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=26&pause=1000&color=196AFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Zachary+Duaibes;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
-<!-- Navigation -->
-<div align="center" style="margin: 20px 0; font-family: 'Sora', sans-serif;">
-  <a href="#about" style="margin: 0 15px; color: #00FFFF;">About</a> •
-  <a href="#skills" style="margin: 0 15px; color: #00FFFF;">Skills</a> •
-  <a href="#projects" style="margin: 0 15px; color: #00FFFF;">Projects</a> •
-  <a href="#contact" style="margin: 0 15px; color: #00FFFF;">Contact</a>
-</div>
-
+![GitHub Banner](Banner.gif)
 <!-- About Section -->
 <h2 id="about" style="color: #00FF00;">🚀 About Me</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
