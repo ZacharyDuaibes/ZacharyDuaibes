@@ -96,7 +96,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/snake.svg" alt="Snake Animation" />
+  ![snake gif](https://github.com/ZacharyDuaibes/ZacharyDuaibes/blob/output/github-snake-dark.svg)
 </div>
 
 
