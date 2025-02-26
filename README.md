@@ -1,11 +1,10 @@
 ![GitHub Banner](Banner.gif)
 <!-- About Section -->
-<h2 id="about" style="color: #00FF00;">🚀 About Me</h2>
+<h2 id="about" style="color: #00FF00;">About Me💈</h2>
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-  <p>I'm a passionate CS student at Carleton University specializing in AI and Machine Learning. I love building futuristic tech that merges creativity and automation!</p>
-  <p>💻 Currently working on: AI-Powered Terminal Assistant, Anatomics, and coursework!</p>
-  <p>🌱 Learning: Trying to enhance my proficiency in front-end APIs and frameworks.</p>
-  <p>🎯 2025 Goals: My main goals for this year are to enhance my programming skills in front-end technologies and databases by building a personal web portfolio.</p>
+  <p>CS student at Carleton University specializing in AI and Machine Learning.</p>
+  <p>I love automating things!</p>
+  <p>2025 goals: Get an internship😞</p>
 
 
   <!-- Social Links -->
