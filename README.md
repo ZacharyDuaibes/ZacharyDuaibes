@@ -6,7 +6,7 @@
     <p>CS student at Carleton University specializing in AI and Machine Learning.</p>
     <p>I love automating things!</p>
     <p>2025 goals: Get an internship😞</p>
-    <p>UpdateL Internship Secured and offer extended😁</p>
+    <p>Update: Internship Secured and offer extended😁</p>
 
 
 
