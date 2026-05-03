@@ -63,6 +63,7 @@
 
   <p>
     A smart command-line assistant that tracks terminal commands, stores command history, and uses AI to explain commands and suggest relevant ones through fuzzy search and autocomplete.
+    COMING TO GITHUB SOON
   </p>
 </div>
 
