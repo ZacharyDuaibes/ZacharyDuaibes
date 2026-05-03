@@ -3,10 +3,9 @@
 <div align="center">
   <h2 style="color: #00FF00;">About Me💈</h2>
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <p>CS student at Carleton University specializing in AI and Machine Learning.</p>
+    <p>CS @Carleton University specializing in AI & ML.</p>
     <p>I love automating things!</p>
-    <p>2025 goals: Get an internship😞</p>
-    <p>Update: Internship Secured and offer extended😁</p>
+    <p>2026 goals: BAG SHOPIFY FALL, TESLA WINTER</p>
 
 
 
@@ -27,14 +26,6 @@
   </div>
 
   <br> <!-- Space between socials and Spotify -->
-  
-  <!-- Spotify Recently Played -->
-  <div align="center">
-    <a href="https://open.spotify.com/user/tokmr537hdu8okg6281gzs1st">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=tokmr537hdu8okg6281gzs1st&count=3&unique=false" alt="Spotify recently played" />
-    </a>
-  </div>
-</div>
 
 <!-- Skills Section -->
 <h2 style="color: #00FF00;">🛠️ Tech Stack</h2>
@@ -71,9 +62,6 @@
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
   <p>🖥️ <b>AI-Powered Terminal Assistant</b></p>
   <p>Ever wished your terminal was smarter? This project is built to enhance the command-line experience by logging executed commands, storing metadata, and providing AI-generated descriptions using OpenAI's API. It features intelligent autocomplete with fuzzy search, ranking command suggestions based on frequency and relevance. With an integrated SQLite database, it efficiently organizes command history for quick access. The interactive CLI also offers real-time suggestions and an intuitive search system.</p>
-
-  <p>🏋️‍♂️ <b>Anatomics</b></p>
-  <p>Most fitness apps focus on logging workouts but lack true guidance. Anatomics changes that by offering a fully interactive fitness assistant. Users can create personalized workout plans and visualize targeted muscle groups using an advanced 3D human model. Built with React and Three.js, Anatomics provides a interactive dynamic UI. The meal creator feature integrates a database of hundreds of nutrition facts, helping users structure meal plans for optimal results. WIP/planned features: animated 3D workout models, a workout calendar, and a comprehensive food lookup table.</p>
 </div>
 
 <!-- GitHub Stats -->
