@@ -51,8 +51,8 @@
 
 <img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
 
-  <p>🖥️ <b>AI-Powered Terminal Assistant</b></p>
-  <p>Ever wished your terminal was smarter? This project is built to enhance the command-line experience by logging executed commands, storing metadata, and providing AI-generated descriptions using OpenAI's API. It features intelligent autocomplete with fuzzy search, ranking command suggestions based on frequency and relevance. With an integrated SQLite database, it efficiently organizes command history for quick access. The interactive CLI also offers real-time suggestions and an intuitive search system.</p>
+  <p><b>AI-Powered Terminal Assistant</b></p>
+  <p>A smart command-line assistant that tracks terminal commands, stores command history, and uses AI to explain commands and suggest relevant ones through fuzzy search and autocomplete.</p>
 </div>
 
   <!-- Social Links -->
