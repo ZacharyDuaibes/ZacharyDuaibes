@@ -87,7 +87,10 @@
   </a>
 </p>
   <br> <!-- Space between socials and Spotify -->
+</div>
+
 ---
+
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
@@ -97,7 +100,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZacharyDuaibes/ZacharyDuaibes/output/github-snake.svg" />
 </picture>
-</div>
 </div>
 
 
