@@ -55,6 +55,10 @@
   <p>A smart command-line assistant that tracks terminal commands, stores command history, and uses AI to explain commands and suggest relevant ones through fuzzy search and autocomplete.</p>
 </div>
 
+---
+
+<!-- Contact -->
+<div align="center" target="_blank"><h2>Contact</h2></div>
   <!-- Social Links -->
   <div align="center">
     <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
