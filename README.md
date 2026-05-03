@@ -1,16 +1,18 @@
 <!-- About Section -->
 <div align="center">
-  <h2 style="color: #00FF00;">Hello, world! I'm Zach</h2>
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <p>Computer Science student at Carleton University specializing in AI and Machine Learning.</p>
-    <p>Currently focused on LeetCode, ML projects, and looking into system architecture.</p>
-    <p>2026 goals: SHOPIFY FALL CO-OP · TESLA WINTER CO-OP</p>
-    
+  <h2>Hello, world! I'm Zach 👋</h2>
+
+  <p>Computer Science student at Carleton University specializing in AI and Machine Learning.</p>
+  <p>Currently focused on LeetCode, ML projects, and looking into system architecture.</p>
+  <p><b>2026 Goals:</b> Shopify Fall Co-op · Tesla Winter Co-op</p>
+</div>
+
 ---
 
 <!-- Skills Section -->
-<h2 style="color: #00FF00;">Tech Stack</h2>
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -38,43 +40,51 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
+---
+
 <!-- Projects Section -->
-<h2 style="color: #00FF00;">Current Projects</h2>
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+<h2 align="center">Current Projects</h2>
 
-  <!-- Polaris - McGill AeroHacks -->
-<div align="center" target="_blank""><h2>Polaris - McGill AeroHacks 2026, Top 3 Overall</h2>
+<div align="center">
+  <h3>Polaris - McGill AeroHacks 2026, Top 3 Overall</h3>
 
-<div align=center>
-<p>A prototype distributed infrastructure and cloud network for drone fleets, so companies can coordinate drone communication and battery management https://polar-vercel-umber.vercel.app/, https://devpost.com/software/polaris-xw9ukv/</p>
-</div>
+  <p>
+    A prototype distributed infrastructure and cloud network for drone fleets, so companies can coordinate drone communication and battery management.
+  </p>
 
-<img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
+  <p>
+    <a href="https://polar-vercel-umber.vercel.app/">Live Demo</a> ·
+    <a href="https://devpost.com/software/polaris-xw9ukv/">Devpost</a>
+  </p>
 
-  <p><b>AI-Powered Terminal Assistant</b></p>
-  <p>A smart command-line assistant that tracks terminal commands, stores command history, and uses AI to explain commands and suggest relevant ones through fuzzy search and autocomplete.</p>
+  <img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
+
+  <h3>AI-Powered Terminal Assistant</h3>
+
+  <p>
+    A smart command-line assistant that tracks terminal commands, stores command history, and uses AI to explain commands and suggest relevant ones through fuzzy search and autocomplete.
+  </p>
 </div>
 
 ---
 
 <!-- Contact -->
 <h2 align="center">Contact</h2>
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-    </a>
-    <a href="mailto:duaibeszachary@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-    </a>
-    <a href="http://instagram.com/zach_duaibes/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/duaibeszachary" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
-    </a>
-  </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:duaibeszachary@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/zach_duaibes/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/duaibeszachary" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
+  </a>
+</p>
   <br> <!-- Space between socials and Spotify -->
 
 <!-- GitHub Stats -->
