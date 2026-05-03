@@ -4,7 +4,7 @@
 
   <p>Computer Science student at Carleton University specializing in AI and Machine Learning.</p>
   <p>Currently focused on LeetCode, ML projects, and looking into system architecture.</p>
-  <p><b>2026 Goals:</b> SHOPIFY FALL CO-OP · TESLA WINTER CO-OP</p>
+  <p><b>2026 Goals:</b> Shopify Fall Co-op · Tesla Winter Co-op</p>
 </div>
 
 ---
