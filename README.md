@@ -2,29 +2,11 @@
 <div align="center">
   <h2 style="color: #00FF00;">Hello, world! I'm Zach</h2>
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <p>CS @Carleton University specializing in AI & ML.</p>
-    <p>Im trying to dive deeper into ML and System Architecture!</p>
-    <p>2026 goals: BAG SHOPIFY FALL, TESLA WINTER</p>
+    <p>Computer Science student at Carleton University specializing in AI and Machine Learning.</p>
+    <p>Currently focused on LeetCode, ML projects, and looking into system architecture.</p>
+    <p>2026 goals: SHOPIFY FALL CO-OP · TESLA WINTER CO-OP</p>
     
 ---
-
-  <!-- Social Links -->
-  <div align="center">
-    <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-    </a>
-    <a href="mailto:duaibeszachary@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-    </a>
-    <a href="http://instagram.com/zach_duaibes/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/duaibeszachary" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
-    </a>
-  </div>
-
-  <br> <!-- Space between socials and Spotify -->
 
 <!-- Skills Section -->
 <h2 style="color: #00FF00;">🛠️ Tech Stack</h2>
@@ -55,6 +37,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
+
+  <!-- Social Links -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    </a>
+    <a href="mailto:duaibeszachary@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+    </a>
+    <a href="http://instagram.com/zach_duaibes/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/duaibeszachary" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
+    </a>
+  </div>
+
+  <br> <!-- Space between socials and Spotify -->
 
 <!-- Projects Section -->
 <h2 style="color: #00FF00;">🔥 Current Projects</h2>
