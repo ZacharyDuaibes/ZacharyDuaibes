@@ -58,7 +58,7 @@
 ---
 
 <!-- Contact -->
-<div align="center" target="_blank"><h2>Contact</h2></div>
+<h2 align="center">Contact</h2>
   <!-- Social Links -->
   <p align="center">
     <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
