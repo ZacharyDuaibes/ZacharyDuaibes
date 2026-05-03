@@ -87,7 +87,7 @@
   </a>
 </p>
   <br> <!-- Space between socials and Spotify -->
-
+---
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
