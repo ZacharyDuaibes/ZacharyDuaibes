@@ -1,6 +1,6 @@
 <!-- About Section -->
 <div align="center">
-  <h2 style="color: #00FF00;">Hello, world! Im Zach</h2>
+  <h2 style="color: #00FF00;">Hello, world! I'm Zach</h2>
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
     <p>CS @Carleton University specializing in AI & ML.</p>
     <p>Im trying to dive deeper into ML and System Architecture!</p>
