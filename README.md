@@ -9,8 +9,8 @@
 ---
 
 <!-- Skills Section -->
-<h2 style="color: #00FF00;">🛠️ Tech Stack</h2>
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;" align="left">
+<h2 style="color: #00FF00;">Tech Stack</h2>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -38,6 +38,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
+<!-- Projects Section -->
+<h2 style="color: #00FF00;">Current Projects</h2>
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+
+  <!-- Polaris - McGill AeroHacks -->
+<div align="center" target="_blank""><h2>Polaris - McGill AeroHacks 2026, Top 3 Overall</h2>
+
+<div align=center>
+<p>A prototype distributed infrastructure and cloud network for drone fleets, so companies can coordinate drone communication and battery management https://polar-vercel-umber.vercel.app/, https://devpost.com/software/polaris-xw9ukv/</p>
+</div>
+
+<img width="100%" src="https://github.com/user-attachments/assets/d8768d90-be03-48fe-842f-91509ea808fe" />
+
+  <p>🖥️ <b>AI-Powered Terminal Assistant</b></p>
+  <p>Ever wished your terminal was smarter? This project is built to enhance the command-line experience by logging executed commands, storing metadata, and providing AI-generated descriptions using OpenAI's API. It features intelligent autocomplete with fuzzy search, ranking command suggestions based on frequency and relevance. With an integrated SQLite database, it efficiently organizes command history for quick access. The interactive CLI also offers real-time suggestions and an intuitive search system.</p>
+</div>
+
   <!-- Social Links -->
   <div align="center">
     <a href="https://www.linkedin.com/in/zachary-duaibes/" target="_blank">
@@ -55,13 +72,6 @@
   </div>
 
   <br> <!-- Space between socials and Spotify -->
-
-<!-- Projects Section -->
-<h2 style="color: #00FF00;">🔥 Current Projects</h2>
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-  <p>🖥️ <b>AI-Powered Terminal Assistant</b></p>
-  <p>Ever wished your terminal was smarter? This project is built to enhance the command-line experience by logging executed commands, storing metadata, and providing AI-generated descriptions using OpenAI's API. It features intelligent autocomplete with fuzzy search, ranking command suggestions based on frequency and relevance. With an integrated SQLite database, it efficiently organizes command history for quick access. The interactive CLI also offers real-time suggestions and an intuitive search system.</p>
-</div>
 
 <!-- GitHub Stats -->
 <h2 style="color: #00FF00;">📈 GitHub Stats</h2>
